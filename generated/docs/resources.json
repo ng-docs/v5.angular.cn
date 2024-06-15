@@ -1,5 +1,5 @@
 {
-  "id": "resources",
-  "title": "Explore Angular Resources",
-  "contents": "\n<div class=\"content\">\n<header class=\"marketing-banner\">\n  <h1 class=\"banner-headline no-toc no-anchor\" id=\"explore-angular-resources\">Explore Angular Resources</h1>\n</header>\n<article>\n  <aio-resource-list></aio-resource-list>\n</article>\n\n</div>\n<!-- links to this doc:\n-->\n<!-- links from this doc:\n-->"
+  "id" : "resources",
+  "title" : "探索 Angular 资源",
+  "contents" : "<div class=\"content\">\n<header class=\"marketing-banner\">\n  <h1 class=\"banner-headline no-toc no-anchor\" id=\"explore-angular-resources\" data-ng_translator_product=\"100\" data-ng_translator_ref_id=\"8zpnhqec8677pq01mw4gvbat3\">探索 Angular 资源</h1>\n</header>\n<article>\n  <aio-resource-list></aio-resource-list>\n</article>\n\n</div>\n<!-- links to this doc:\n-->\n<!-- links from this doc:\n-->"
 }

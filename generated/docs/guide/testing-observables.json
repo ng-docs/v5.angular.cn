@@ -1,5 +1,5 @@
 {
-  "id": "guide/testing-observables",
-  "title": "Testing",
-  "contents": "\n<div class=\"content\">\n<h1 id=\"testing\"><a title=\"Link to this heading\" class=\"header-link\" aria-hidden=\"true\" href=\"guide/testing-observables#testing\"><i class=\"material-icons\">link</i></a>Testing</h1>\n<p>TBD. Original content <a href=\"https://docs.google.com/document/d/1gGP5sqWNCHAWWV_GLdZQ1XyMO4K-CHksUxux0BFtVxk/edit#heading=h.ohqykkhzdhb2\">here</a>.</p>\n\n</div>\n<!-- links to this doc:\n-->\n<!-- links from this doc:\n - guide/testing-observables#testing\n - https://docs.google.com/document/d/1gGP5sqWNCHAWWV_GLdZQ1XyMO4K-CHksUxux0BFtVxk/edit#heading=h.ohqykkhzdhb2\n-->"
+  "id" : "guide/testing-observables",
+  "title" : "测试",
+  "contents" : "<div class=\"content\">\n<h1 id=\"testing\" data-ng_translator_product=\"100\" data-ng_translator_confirmed data-ng_translator_ref_id=\"etpgj6p39fywtmcrsphy8qrcg\"><i class=\"material-icons\">link</i>测试</h1>\n<p data-ng_translator_product=\"100\" data-ng_translator_ref_id=\"a6sicmbzr6xas9c8p86ay5eh4\">待定。原始内容 \n<a href=\"https://docs.google.com/document/d/1gGP5sqWNCHAWWV_GLdZQ1XyMO4K-CHksUxux0BFtVxk/edit#heading=h.ohqykkhzdhb2\">在此</a>。</p>\n\n</div>\n<!-- links to this doc:\n-->\n<!-- links from this doc:\n - guide/testing-observables#testing\n - https://docs.google.com/document/d/1gGP5sqWNCHAWWV_GLdZQ1XyMO4K-CHksUxux0BFtVxk/edit#heading=h.ohqykkhzdhb2\n-->"
 }

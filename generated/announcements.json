@@ -1,16 +1,13 @@
-[
-  {
-    "startDate": "2018-02-14",
-    "endDate": "2018-04-18",
-    "message": "Join us for ng-conf<br/>Apr 18th-20th, 2018",
-    "imageUrl": "generated/images/marketing/home/ng-conf.png",
-    "linkUrl": "http://ng-conf.org/"
-  },
-  {
-    "startDate": "2018-04-18",
-    "endDate": "2018-04-22",
-    "message": "Watch ng-conf live stream <br/>Apr 18th-20th, 2018",
-    "imageUrl": "generated/images/marketing/home/ng-conf.png",
-    "linkUrl": "https://www.ng-conf.org/livestream/"
-  }
-]
+[ {
+  "startDate" : "2018-02-14",
+  "endDate" : "2018-04-18",
+  "message" : "加入我们参加 ng-conf\n<br>2018 年 4 月 18 日至 20 日",
+  "imageUrl" : "generated/images/marketing/home/ng-conf.png",
+  "linkUrl" : "http://ng-conf.org/"
+}, {
+  "startDate" : "2018-04-18",
+  "endDate" : "2018-04-22",
+  "message" : "观看 ng-conf 直播\n<br>2018 年 4 月 18 日至 20 日",
+  "imageUrl" : "generated/images/marketing/home/ng-conf.png",
+  "linkUrl" : "https://www.ng-conf.org/livestream/"
+} ]

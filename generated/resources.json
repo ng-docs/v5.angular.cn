@@ -1,697 +1,697 @@
 {
-  "Community": {
-    "order": 3,
-    "subCategories": {
-      "Community Curations": {
-        "order": 1,
-        "resources": {
-          "awesome-angular-components": {
-            "desc": "A community index of components and libraries maintained on GitHub",
-            "rev": true,
-            "title": "Catalog of Angular Components & Libraries",
-            "url": "https://github.com/brillout/awesome-angular-components"
+  "社区" : {
+    "order" : 3,
+    "subCategories" : {
+      "社区精选" : {
+        "order" : 1,
+        "resources" : {
+          "awesome-angular-components" : {
+            "desc" : "一个由社区维护的组件和库索引，托管在 GitHub 上。",
+            "rev" : true,
+            "title" : "Angular 组件和库目录",
+            "url" : "https://github.com/brillout/awesome-angular-components"
           },
-          "angular-ru": {
-            "desc": "Angular-RU Community on GitHub is a single entry point for all resources, chats, podcasts and meetups for Angular in Russia.",
-            "rev": true,
-            "title": "Angular Conferences and Angular Camps in Moscow, Russia.",
-            "url": "https://angular-ru.github.io/"
+          "angular-ru" : {
+            "desc" : "Angular-RU 社区在 GitHub 上是一个单一入口点，用于所有俄罗斯 Angular 资源、聊天、播客和聚会。",
+            "rev" : true,
+            "title" : "俄罗斯莫斯科的 Angular 大会和 Angular 集训营。",
+            "url" : "https://angular-ru.github.io/"
           }
         }
       },
-      "Groups": {
-        "order": 2,
-        "resources": {
-          "sldkjfslkjfslkjdsklj": {
-            "desc": "Meetup in Barcelona, Spain. Express your motivations, share your ideas and play together creating awesome things in team.",
-            "rev": true,
-            "title": "Angular Beers",
-            "url": "http://www.meetup.com/AngularJS-Beers/"
+      "小组" : {
+        "order" : 2,
+        "resources" : {
+          "sldkjfslkjfslkjdsklj" : {
+            "desc" : "西班牙巴塞罗那的聚会。表达你的动机，分享你的想法，并一起玩耍，在团队中创造很棒的东西。",
+            "rev" : true,
+            "title" : "Angular 酒吧",
+            "url" : "http://www.meetup.com/AngularJS-Beers/"
           },
-          "sldkjfslkjfslkjdskzzzlj": {
-            "desc": "Angular Conferences and Angular Camps in Barcelona, Spain.",
-            "rev": true,
-            "title": "Angular Camp",
-            "url": "http://angularcamp.org/"
+          "sldkjfslkjfslkjdskzzzlj" : {
+            "desc" : "西班牙巴塞罗那的 Angular 大会和 Angular 集训营。",
+            "rev" : true,
+            "title" : "Angular 集训营",
+            "url" : "http://angularcamp.org/"
           }
         }
       },
-      "Podcasts": {
-        "order": 3,
-        "resources": {
-          "sdfjkdkfj": {
-            "desc": "Adventures in Angular is a weekly podcast dedicated to the Angular platform and related technologies, tools, languages, and practices.",
-            "logo": "",
-            "rev": true,
-            "title": "Adventures in Angular",
-            "url": "https://devchat.tv/adventures-in-angular"
+      "播客" : {
+        "order" : 3,
+        "resources" : {
+          "sdfjkdkfj" : {
+            "desc" : "Adventures in Angular 是一个每周播客，专门介绍 Angular 平台和相关技术、工具、语言和实践。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Adventures in Angular",
+            "url" : "https://devchat.tv/adventures-in-angular"
           },
-          "sdlkfjsldfkj": {
-            "desc": "Weekly video podcast hosted by Jeff Whelpley with all the latest and greatest happenings in the wild world of Angular.",
-            "logo": "",
-            "rev": true,
-            "title": "AngularAir",
-            "url": "https://angularair.com/"
+          "sdlkfjsldfkj" : {
+            "desc" : "由 Jeff Whelpley 主持的每周视频播客，涵盖了 Angular 广阔世界中所有最新和最棒的事件。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "AngularAir",
+            "url" : "https://angularair.com/"
           },
-          "sldkfjsldjf": {
-            "desc": "The live broadcast podcast all about JavaScript",
-            "logo": "",
-            "rev": true,
-            "title": "Javascript Air",
-            "url": "https://javascriptair.com/"
+          "sldkfjsldjf" : {
+            "desc" : "关于 JavaScript 的现场直播播客",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Javascript Air",
+            "url" : "https://javascriptair.com/"
           }
         }
       }
     }
   },
-  "Development": {
-    "order": 1,
-    "subCategories": {
-      "Cross-Platform Development": {
-        "order": 5,
-        "resources": {
-          "a2b": {
-            "desc": "Angular and React Native to build applications for Android and iOS",
-            "logo": "",
-            "rev": true,
-            "title": "ReactNative",
-            "url": "http://angular.github.io/react-native-renderer/"
+  "开发" : {
+    "order" : 1,
+    "subCategories" : {
+      "跨平台开发" : {
+        "order" : 5,
+        "resources" : {
+          "a2b" : {
+            "desc" : "Angular 和 React Native 用于构建 Android 和 iOS 应用。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "ReactNative",
+            "url" : "http://angular.github.io/react-native-renderer/"
           },
-          "a3b": {
-            "desc": "Ionic offers a library of mobile-optimized HTML, CSS and JS components and tools for building highly interactive native and progressive web apps.",
-            "logo": "http://ionicframework.com/img/ionic-logo-white.svg",
-            "rev": true,
-            "title": "Ionic",
-            "url": "http://ionicframework.com/docs/v2/"
+          "a3b" : {
+            "desc" : "Ionic 提供了一套移动优化的 HTML、CSS 和 JS 组件和工具，用于构建高度交互式的原生和渐进式 Web 应用。",
+            "logo" : "http://ionicframework.com/img/ionic-logo-white.svg",
+            "rev" : true,
+            "title" : "Ionic",
+            "url" : "http://ionicframework.com/docs/v2/"
           },
-          "a4b": {
-            "desc": "Electron Platform for Angular.",
-            "logo": "",
-            "rev": true,
-            "title": "Electron",
-            "url": "http://github.com/angular/angular-electron"
+          "a4b" : {
+            "desc" : "用于 Angular 的 Electron 平台。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Electron",
+            "url" : "http://github.com/angular/angular-electron"
           },
-          "ab": {
-            "desc": "NativeScript is how you build cross-platform, native iOS and Android apps with Angular and TypeScript. Get 100% access to native APIs via JavaScript and reuse of packages from NPM, CocoaPods and Gradle. Open source and backed by Telerik.​​​",
-            "logo": "",
-            "rev": true,
-            "title": "NativeScript",
-            "url": "https://github.com/NativeScript/nativescript-angular"
+          "ab" : {
+            "desc" : "NativeScript 是使用 Angular 和 TypeScript 构建跨平台原生 iOS 和 Android 应用的方式。通过 JavaScript 获取对原生 API 的 100% 访问权限，并复用来自 NPM、CocoaPods 和 Gradle 的包。开源并由 Telerik 支持。​​​",
+            "logo" : "",
+            "rev" : true,
+            "title" : "NativeScript",
+            "url" : "https://github.com/NativeScript/nativescript-angular"
           },
-          "ab5": {
-            "desc": "An Universal Windows App (uwp) powered by Angular",
-            "logo": "",
-            "rev": true,
-            "title": "Windows (UWP)",
-            "url": "http://github.com/preboot/angular2-universal-windows-app"
+          "ab5" : {
+            "desc" : "一个由 Angular 提供支持的通用 Windows 应用 (uwp)",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Windows (UWP)",
+            "url" : "http://github.com/preboot/angular2-universal-windows-app"
           }
         }
       },
-      "Data Libraries": {
-        "order": 3,
-        "resources": {
-          "-KLIzHDRfiB3d7W7vk-e": {
-            "desc": "Reactive Extensions for Angular",
-            "rev": true,
-            "title": "ngrx",
-            "url": "http://github.com/ngrx"
+      "数据库" : {
+        "order" : 3,
+        "resources" : {
+          "-KLIzHDRfiB3d7W7vk-e" : {
+            "desc" : "Angular 的响应式扩展",
+            "rev" : true,
+            "title" : "ngrx",
+            "url" : "http://github.com/ngrx"
           },
-          "ab": {
-            "desc": "The official library for Firebase and Angular",
-            "logo": "",
-            "rev": true,
-            "title": "Angular Fire",
-            "url": "https://github.com/angular/angularfire2"
+          "ab" : {
+            "desc" : "Firebase 和 Angular 的官方库",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Angular Fire",
+            "url" : "https://github.com/angular/angularfire2"
           },
-          "ab2": {
-            "desc": "Use Angular and Meteor to build full-stack JavaScript apps  for Mobile and Desktop.",
-            "logo": "http://www.angular-meteor.com/images/logo.png",
-            "rev": true,
-            "title": "Meteor",
-            "url": "http://www.angular-meteor.com/angular2"
+          "ab2" : {
+            "desc" : "使用 Angular 和 Meteor 构建适用于移动端和桌面的全栈 JavaScript 应用。",
+            "logo" : "http://www.angular-meteor.com/images/logo.png",
+            "rev" : true,
+            "title" : "Meteor",
+            "url" : "http://www.angular-meteor.com/angular2"
           },
-          "ab3": {
-            "desc": "Apollo is a data stack for modern apps, built with GraphQL.",
-            "logo": "http://docs.apollostack.com/logo/large.png",
-            "rev": true,
-            "title": "Apollo",
-            "url": "http://docs.apollostack.com/apollo-client/angular2.html"
+          "ab3" : {
+            "desc" : "Apollo 是一个使用 GraphQL 构建的现代应用数据栈。",
+            "logo" : "http://docs.apollostack.com/logo/large.png",
+            "rev" : true,
+            "title" : "Apollo",
+            "url" : "http://docs.apollostack.com/apollo-client/angular2.html"
           },
-          "ab4": {
-            "desc": "Angular Commerce is a solution for building modern e-commerce applications with power of Google Firebase. Set of components is design agnostic and allows to easily extend functionality.",
-            "logo": "",
-            "rev": true,
-            "title": "AngularCommerce",
-            "url": "https://github.com/NodeArt/angular-commerce"
+          "ab4" : {
+            "desc" : "Angular Commerce 是一个使用 Google Firebase 的强大功能构建现代电子商务应用的解决方案。组件集与设计无关，可以轻松扩展功能。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "AngularCommerce",
+            "url" : "https://github.com/NodeArt/angular-commerce"
           }
         }
       },
-      "IDEs": {
-        "order": 1,
-        "resources": {
-          "ab": {
-            "desc": "VS Code is a Free, Lightweight Tool for Editing and Debugging Web Apps.",
-            "logo": "",
-            "rev": true,
-            "title": "Visual Studio Code",
-            "url": "http://code.visualstudio.com/"
+      "集成开发环境（IDE）" : {
+        "order" : 1,
+        "resources" : {
+          "ab" : {
+            "desc" : "VS Code 是一个用于编辑和调试 Web 应用的免费轻量级工具。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Visual Studio Code",
+            "url" : "http://code.visualstudio.com/"
           },
-          "ab2": {
-            "desc": "Lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js",
-            "logo": "",
-            "rev": true,
-            "title": "Webstorm",
-            "url": "https://www.jetbrains.com/webstorm/"
+          "ab2" : {
+            "desc" : "轻量级但功能强大的 IDE，非常适合复杂的客户端开发和使用 Node.js 的服务器端开发。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Webstorm",
+            "url" : "https://www.jetbrains.com/webstorm/"
           },
-          "ab3": {
-            "desc": "Capable and Ergonomic  Java * IDE",
-            "logo": "",
-            "rev": true,
-            "title": "IntelliJ IDEA",
-            "url": "https://www.jetbrains.com/idea/"
+          "ab3" : {
+            "desc" : "功能强大且符合人体工程学的 Java * IDE",
+            "logo" : "",
+            "rev" : true,
+            "title" : "IntelliJ IDEA",
+            "url" : "https://www.jetbrains.com/idea/"
           },
-          "angular-ide": {
-            "desc": "Built first and foremost for Angular. Turnkey setup for beginners; powerful for experts.",
-            "rev": true,
-            "title": "Angular IDE by Webclipse",
-            "url": "https://www.genuitec.com/products/angular-ide"
+          "angular-ide" : {
+            "desc" : "主要为 Angular 而构建。为初学者提供一键式设置；对专家来说功能强大。",
+            "rev" : true,
+            "title" : "Angular IDE by Webclipse",
+            "url" : "https://www.genuitec.com/products/angular-ide"
           }
         }
       },
-      "Tooling": {
-        "order": 2,
-        "resources": {
-          "-KLIzHfBEr1qMMUDxfq3": {
-            "desc": "Generate an Angular CRUD application from an existing database schema",
-            "rev": true,
-            "title": "Celerio Angular Quickstart",
-            "url": "https://github.com/jaxio/celerio-angular-quickstart"
+      "工具" : {
+        "order" : 2,
+        "resources" : {
+          "-KLIzHfBEr1qMMUDxfq3" : {
+            "desc" : "从现有数据库模式生成 Angular CRUD 应用。",
+            "rev" : true,
+            "title" : "Celerio Angular 快速入门",
+            "url" : "https://github.com/jaxio/celerio-angular-quickstart"
           },
-          "a1": {
-            "desc": "A Google Chrome Dev Tools extension for debugging Angular applications.",
-            "logo": "https://augury.angular.io/images/augury-logo.svg",
-            "rev": true,
-            "title": "Augury",
-            "url": "http://augury.angular.io/"
+          "a1" : {
+            "desc" : "一个用于调试 Angular 应用的 Google Chrome 开发者工具扩展。",
+            "logo" : "https://augury.angular.io/images/augury-logo.svg",
+            "rev" : true,
+            "title" : "Augury",
+            "url" : "http://augury.angular.io/"
           },
-          "b1": {
-            "desc": "Server-side Rendering for Angular apps.",
-            "logo": "https://cloud.githubusercontent.com/assets/1016365/10639063/138338bc-7806-11e5-8057-d34c75f3cafc.png",
-            "rev": true,
-            "title": "Angular Universal",
-            "url": "https://github.com/angular/universal"
+          "b1" : {
+            "desc" : "Angular 应用的服务器端渲染。",
+            "logo" : "https://cloud.githubusercontent.com/assets/1016365/10639063/138338bc-7806-11e5-8057-d34c75f3cafc.png",
+            "rev" : true,
+            "title" : "Angular Universal",
+            "url" : "https://github.com/angular/universal"
           },
-          "c1": {
-            "desc": "Lightweight development only node server",
-            "logo": "",
-            "rev": true,
-            "title": "Lite-server",
-            "url": "https://github.com/johnpapa/lite-server"
+          "c1" : {
+            "desc" : "轻量级开发，仅使用 Node 服务器。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Lite-server",
+            "url" : "https://github.com/johnpapa/lite-server"
           },
-          "cli": {
-            "desc": "The official Angular CLI makes it easy to create and develop applications from initial commit to production deployment. It already follows our best practices right out of the box!",
-            "rev": true,
-            "title": "Angular CLI",
-            "url": "https://cli.angular.io"
+          "cli" : {
+            "desc" : "官方 Angular CLI 使得从初始提交到生产部署轻松创建和开发应用。它开箱即用地遵循我们的最佳实践！",
+            "rev" : true,
+            "title" : "Angular CLI",
+            "url" : "https://cli.angular.io"
           },
-          "d1": {
-            "desc": "Static analysis for Angular projects.",
-            "logo": "",
-            "rev": true,
-            "title": "Codelyzer",
-            "url": "https://github.com/mgechev/codelyzer"
+          "d1" : {
+            "desc" : "Angular 项目的静态分析。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Codelyzer",
+            "url" : "https://github.com/mgechev/codelyzer"
           },
-          "e1": {
-            "desc": "This package provides facilities for developers building Angular applications on ASP.NET.",
-            "logo": "",
-            "rev": true,
-            "title": "Universal for ASP.NET",
-            "url": "https://github.com/aspnet/nodeservices"
+          "e1" : {
+            "desc" : "此包为在 ASP.NET 上构建 Angular 应用的开发者提供便利。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "ASP.NET 的 Universal",
+            "url" : "https://github.com/aspnet/nodeservices"
           },
-          "f1": {
-            "desc": "This tool generates dedicated documentation for Angular applications.",
-            "logo": "",
-            "rev": true,
-            "title": "Compodoc",
-            "url": "https://github.com/compodoc/compodoc"
+          "f1" : {
+            "desc" : "此工具为 Angular 应用生成专用文档。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Compodoc",
+            "url" : "https://github.com/compodoc/compodoc"
           },
-          "ncg": {
-            "desc": "Generate several types of CRUD apps complete with e2e testing using template-sets for Angular, Material Design, Bootstrap, Kendo UI, Ionic, ...",
-            "logo": "https://avatars3.githubusercontent.com/u/27976684",
-            "rev": true,
-            "title": "NinjaCodeGen - Angular CRUD Generator",
-            "url": "https://ninjaCodeGen.com"
+          "ncg" : {
+            "desc" : "使用 Angular、Material Design、Bootstrap、Kendo UI、Ionic 等的模板集生成多种类型的 CRUD 应用，并附带 e2e 测试。",
+            "logo" : "https://avatars3.githubusercontent.com/u/27976684",
+            "rev" : true,
+            "title" : "NinjaCodeGen - Angular CRUD 生成器",
+            "url" : "https://ninjaCodeGen.com"
           },
-          "angular-playground": {
-            "desc": "UI development environment for building, testing, and documenting Angular applications.",
-            "rev": true,
-            "title": "Angular Playground",
-            "url": "http://www.angularplayground.it/"
+          "angular-playground" : {
+            "desc" : "用于构建、测试和记录 Angular 应用的 UI 开发环境。",
+            "rev" : true,
+            "title" : "Angular Playground",
+            "url" : "http://www.angularplayground.it/"
           },
-          "nx": {
-            "desc": "Nx (Nrwl Extensions for Angular) is an open source toolkit built on top of Angular CLI to help enterprise teams develop Angular at scale.",
-            "rev": true,
-            "title": "Nx",
-            "logo": "https://nrwl.io/assets/nx-logo.png",
-            "url": "https://nrwl.io/nx"
+          "nx" : {
+            "desc" : "Nx（Nrwl Extensions for Angular）是一个基于 Angular CLI 构建的开源工具包，帮助企业团队大规模开发 Angular。",
+            "rev" : true,
+            "title" : "Nx",
+            "logo" : "https://nrwl.io/assets/nx-logo.png",
+            "url" : "https://nrwl.io/nx"
           }
         }
       },
-      "UI Components": {
-        "order": 4,
-        "resources": {
-          "234237": {
-            "desc": "UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences",
-            "rev": true,
-            "title": "Clarity Design System",
-            "url": "https://vmware.github.io/clarity/"
+      "UI 组件" : {
+        "order" : 4,
+        "resources" : {
+          "234237" : {
+            "desc" : "UX 指南、HTML/CSS 框架和 Angular 组件协同工作，打造非凡的体验。",
+            "rev" : true,
+            "title" : "Clarity Design System",
+            "url" : "https://vmware.github.io/clarity/"
           },
-          "IgniteUIforAngular": {
-            "desc": "Ignite UI for Angular is a dependency-free Angular toolkit for building modern web apps.",
-            "rev": true,
-            "title": "Ignite UI for Angular",
-            "url": "https://www.infragistics.com/products/ignite-ui-angular"
+          "IgniteUIforAngular" : {
+            "desc" : "Ignite UI for Angular 是一个用于构建现代 Web 应用的无依赖 Angular 工具包。",
+            "rev" : true,
+            "title" : "Ignite UI for Angular",
+            "url" : "https://www.infragistics.com/products/ignite-ui-angular"
           },
-          "DevExtreme": {
-            "desc": "50+ UI components including data grid, pivot grid, scheduler, charts, editors, maps and other multi-purpose controls for creating highly responsive web applications for touch devices and traditional desktops.",
-            "rev": true,
-            "title": "DevExtreme",
-            "url": "https://js.devexpress.com/Overview/Angular/"
+          "DevExtreme" : {
+            "desc" : "50 多个 UI 组件，包括数据网格、透视网格、调度器、图表、编辑器、地图和其他多用途控件，用于创建针对触摸设备和传统台式机的响应式 Web 应用。",
+            "rev" : true,
+            "title" : "DevExtreme",
+            "url" : "https://js.devexpress.com/Overview/Angular/"
           },
-          "-KLIzI9BTvvP_hUwutXk": {
-            "desc": "UI components for Angular using Semantic UI",
-            "rev": true,
-            "title": "Semantic UI",
-            "url": "https://github.com/vladotesanovic/ngSemantic"
+          "-KLIzI9BTvvP_hUwutXk" : {
+            "desc" : "使用 Semantic UI 的 Angular UI 组件。",
+            "rev" : true,
+            "title" : "Semantic UI",
+            "url" : "https://github.com/vladotesanovic/ngSemantic"
           },
-          "-KMVB8P4TDfht8c0L1AE": {
-            "desc": "The Angular version of the Angular UI Bootstrap library. This library is being built from scratch in Typescript using the Bootstrap 4 CSS framework.",
-            "rev": true,
-            "title": "ng-bootstrap",
-            "url": "https://ng-bootstrap.github.io/"
+          "-KMVB8P4TDfht8c0L1AE" : {
+            "desc" : "Angular UI Bootstrap 库的 Angular 版本。此库使用 Bootstrap 4 CSS 框架从头开始用 Typescript 构建。",
+            "rev" : true,
+            "title" : "ng-bootstrap",
+            "url" : "https://ng-bootstrap.github.io/"
           },
-          "4ab": {
-            "desc": "Native Angular components & directives for Lightning Design System",
-            "logo": "http://ng-lightning.github.io/ng-lightning/img/shield.svg",
-            "rev": true,
-            "title": "ng-lightning",
-            "url": "http://ng-lightning.github.io/ng-lightning/"
+          "4ab" : {
+            "desc" : "用于 Lightning Design System 的原生 Angular 组件和指令。",
+            "logo" : "http://ng-lightning.github.io/ng-lightning/img/shield.svg",
+            "rev" : true,
+            "title" : "ng-lightning",
+            "url" : "http://ng-lightning.github.io/ng-lightning/"
           },
-          "7ab": {
-            "desc": "UI components for hybrid mobile apps with bindings for both Angular & AngularJS.",
-            "rev": true,
-            "title": "Onsen UI",
-            "url": "https://onsen.io/v2/"
+          "7ab" : {
+            "desc" : "用于混合移动应用的 UI 组件，包含 Angular 和 AngularJS 的绑定。",
+            "rev" : true,
+            "title" : "Onsen UI",
+            "url" : "https://onsen.io/v2/"
           },
-          "a2b": {
-            "desc": "PrimeNG is a collection of rich UI components for Angular",
-            "logo": "http://www.primefaces.org/primeng/showcase/resources/images/primeng.svg",
-            "rev": true,
-            "title": "Prime Faces",
-            "url": "http://www.primefaces.org/primeng/"
+          "a2b" : {
+            "desc" : "PrimeNG 是一个用于 Angular 的丰富 UI 组件集合。",
+            "logo" : "http://www.primefaces.org/primeng/showcase/resources/images/primeng.svg",
+            "rev" : true,
+            "title" : "Prime Faces",
+            "url" : "http://www.primefaces.org/primeng/"
           },
-          "a3b": {
-            "desc": "One of the first major UI frameworks to support Angular",
-            "logo": "",
-            "rev": true,
-            "title": "Kendo UI",
-            "url": "http://www.telerik.com/kendo-angular-ui/"
+          "a3b" : {
+            "desc" : "最早支持 Angular 的主要 UI 框架之一。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Kendo UI",
+            "url" : "http://www.telerik.com/kendo-angular-ui/"
           },
-          "a5b": {
-            "desc": "High-performance UI controls with the most complete Angular support available. Wijmo’s controls are all written in TypeScript and have zero dependencies. FlexGrid control includes full declarative markup, including cell templates.",
-            "logo": "http://wijmocdn.azureedge.net/wijmositeblob/wijmo-theme/logos/wijmo-55.png",
-            "rev": true,
-            "title": "Wijmo",
-            "url": "http://wijmo.com/products/wijmo-5/"
+          "a5b" : {
+            "desc" : "高性能 UI 控件，提供最完整的 Angular 支持。Wijmo 的控件全部使用 TypeScript 编写，并且没有依赖项。FlexGrid 控件包含完整的声明式标记，包括单元格模板。",
+            "logo" : "http://wijmocdn.azureedge.net/wijmositeblob/wijmo-theme/logos/wijmo-55.png",
+            "rev" : true,
+            "title" : "Wijmo",
+            "url" : "http://wijmo.com/products/wijmo-5/"
           },
-          "a6b": {
-            "desc": "Material design inspired UI components for building great web apps. For mobile and desktop.",
-            "logo": "",
-            "rev": true,
-            "title": "Vaadin",
-            "url": "https://vaadin.com/elements"
+          "a6b" : {
+            "desc" : "受 Material Design 启发的 UI 组件，用于构建出色的 Web 应用。适用于移动设备和桌面。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Vaadin",
+            "url" : "https://vaadin.com/elements"
           },
-          "a7b": {
-            "desc": "Native Angular directives for Bootstrap",
-            "logo": "",
-            "rev": true,
-            "title": "ngx-bootstrap",
-            "url": "http://valor-software.com/ngx-bootstrap/#/"
+          "a7b" : {
+            "desc" : "Bootstrap 的原生 Angular 指令",
+            "logo" : "",
+            "rev" : true,
+            "title" : "ngx-bootstrap",
+            "url" : "http://valor-software.com/ngx-bootstrap/#/"
           },
-          "ab": {
-            "desc": "Material Design components for Angular",
-            "logo": "",
-            "rev": true,
-            "title": "Angular Material",
-            "url": "https://github.com/angular/material2"
+          "ab" : {
+            "desc" : "Angular 的 Material Design 组件",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Angular Material",
+            "url" : "https://github.com/angular/material2"
           },
-          "aggrid": {
-            "desc": "A datagrid for Angular with enterprise style features such as sorting, filtering, custom rendering, editing, grouping, aggregation and pivoting.",
-            "rev": true,
-            "title": "ag-Grid",
-            "url": "https://www.ag-grid.com/best-angular-2-data-grid/"
+          "aggrid" : {
+            "desc" : "一个面向 Angular 的数据网格，具有企业级特性，例如排序、过滤、自定义渲染、编辑、分组、聚合和透视。",
+            "rev" : true,
+            "title" : "ag-Grid",
+            "url" : "https://www.ag-grid.com/best-angular-2-data-grid/"
           },
-          "jqwidgets": {
-            "desc": "Angular UI Components including data grid, tree grid, pivot grid, scheduler, charts, editors and other multi-purpose components",
-            "rev": true,
-            "title": "jQWidgets",
-            "url": "https://www.jqwidgets.com/angular/"
+          "jqwidgets" : {
+            "desc" : "Angular UI 组件，包括数据网格、树形网格、透视网格、调度器、图表、编辑器和其他多用途组件",
+            "rev" : true,
+            "title" : "jQWidgets",
+            "url" : "https://www.jqwidgets.com/angular/"
           },
-          "amexio": {
-            "desc": "Amexio (Angular MetaMagic EXtensions for Inputs and Outputs)  is a rich set of Angular components powered by Bootstrap for Responsive Design. UI Components include Standard Form Components, Data Grids, Tree Grids, Tabs etc. Open Source (Apache 2 License) & Free and backed by MetaMagic Global Inc",
-            "rev": true,
-            "title": "Amexio - Angular Extensions",
-            "url": "http://www.amexio.tech/",
-            "logo": "http://www.amexio.org/amexio-logo.png"
+          "amexio" : {
+            "desc" : "Amexio（Angular MetaMagic EXtensions for Inputs and Outputs）是一套丰富的 Angular 组件，由 Bootstrap 提供支持，用于响应式设计。UI 组件包括标准表单组件、数据网格、树形网格、选项卡等。开源（Apache 2 许可证）&amp; 免费，并由 MetaMagic Global Inc 支持",
+            "rev" : true,
+            "title" : "Amexio - Angular Extensions",
+            "url" : "http://www.amexio.tech/",
+            "logo" : "http://www.amexio.org/amexio-logo.png"
           },
-          "essentialjs2": {
-            "desc": "Essential JS 2 for Angular is a collection modern TypeScript based true Angular Components. It has support for Ahead Of Time (AOT) compilation and Tree-Shaking. All the components are developed from the ground up to be lightweight, responsive, modular and touch friendly.",
-            "rev": true,
-            "title": "Essential JS 2",
-            "url": "https://www.syncfusion.com/products/angular-js2"
+          "essentialjs2" : {
+            "desc" : "Essential JS 2 for Angular 是一个现代 TypeScript 基于的真正 Angular 组件集合。它支持预先编译（AOT）和摇树优化。所有组件都是从头开始开发的，以确保轻量级、响应式、模块化和触控友好。",
+            "rev" : true,
+            "title" : "Essential JS 2",
+            "url" : "https://www.syncfusion.com/products/angular-js2"
           }
         }
       }
     }
   },
-  "Education": {
-    "order": 2,
-    "subCategories": {
-      "Books": {
-        "order": 1,
-        "resources": {
-          "-KLI8vJ0ZkvWhqPembZ7": {
-            "desc": "A guide that helps developers get up to speed quickly on Angular and its accompanying technologies.",
-            "rev": true,
-            "title": "How to Get Started and Productive in Angular Fast",
-            "url": "http://www.amazon.com/How-Started-Productive-Angular-Fast-ebook/dp/B01D3B0ET4/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1462381159&sr=8-1"
+  "教育" : {
+    "order" : 2,
+    "subCategories" : {
+      "图书" : {
+        "order" : 1,
+        "resources" : {
+          "-KLI8vJ0ZkvWhqPembZ7" : {
+            "desc" : "一个指南，帮助开发者快速了解 Angular 及其配套技术。",
+            "rev" : true,
+            "title" : "如何在 Angular 中快速入门并提高效率",
+            "url" : "http://www.amazon.com/How-Started-Productive-Angular-Fast-ebook/dp/B01D3B0ET4/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1462381159&sr=8-1"
           },
-          "-KLIzGEp8Mh5W-FkiQnL": {
-            "desc": "Your quick, no-nonsense guide to building real-world apps with Angular",
-            "rev": true,
-            "title": "Learning Angular",
-            "url": "https://www.packtpub.com/web-development/learning-angular-2"
+          "-KLIzGEp8Mh5W-FkiQnL" : {
+            "desc" : "使用 Angular 构建真实世界应用的快速、务实的指南",
+            "rev" : true,
+            "title" : "学习 Angular",
+            "url" : "https://www.packtpub.com/web-development/learning-angular-2"
           },
-          "3ab": {
-            "desc": "More than 15 books from O'Reilly about Angular",
-            "rev": true,
-            "title": "O'Reilly Media",
-            "url": "https://ssearch.oreilly.com/?q=angular+2&x=0&y=0"
+          "3ab" : {
+            "desc" : "O'Reilly 关于 Angular 的 15 本书",
+            "rev" : true,
+            "title" : "O'Reilly Media",
+            "url" : "https://ssearch.oreilly.com/?q=angular+2&x=0&y=0"
           },
-          "8ab": {
-            "desc": "This books shows all the steps necessary for the development of SPA (Single Page Application) applications with the brand new Angular",
-            "rev": true,
-            "title": "Practical Angular",
-            "url": "https://leanpub.com/practical-angular-2"
+          "8ab" : {
+            "desc" : "本书展示了使用全新的 Angular 开发 SPA（单页应用）应用所需的所有步骤",
+            "rev" : true,
+            "title" : "Practical Angular",
+            "url" : "https://leanpub.com/practical-angular-2"
           },
-          "a2b": {
-            "desc": "Publications and books from Manning about Angular",
-            "rev": true,
-            "title": "Manning Publications",
-            "url": "https://www.manning.com/search?q=angular"
+          "a2b" : {
+            "desc" : "Manning 关于 Angular 的出版物和书籍",
+            "rev" : true,
+            "title" : "Manning Publications",
+            "url" : "https://www.manning.com/search?q=angular"
           },
-          "a4b": {
-            "desc": "From getting started with the Angular toolchain to writing applications with scalable front end architectures, this book walks you through everything you need to know.",
-            "rev": true,
-            "title": "Rangle's Angular Training Book",
-            "url": "http://ngcourse.rangle.io/"
+          "a4b" : {
+            "desc" : "从 Angular 工具链入门到使用可扩展的前端架构编写应用，本书将带你了解你需要知道的一切。",
+            "rev" : true,
+            "title" : "Rangle's Angular Training Book",
+            "url" : "http://ngcourse.rangle.io/"
           },
-          "a5b": {
-            "desc": "The in-depth, complete, and up-to-date book on Angular. Become an Angular expert today.",
-            "rev": true,
-            "title": "ng-book",
-            "url": "https://www.ng-book.com/2/"
+          "a5b" : {
+            "desc" : "关于 Angular 的深入、完整且最新的书籍。今天就成为 Angular 专家。",
+            "rev" : true,
+            "title" : "ng-book",
+            "url" : "https://www.ng-book.com/2/"
           },
-          "a6b": {
-            "desc": "A Practical Introduction to the new Web Development Platform Angular",
-            "rev": true,
-            "title": "Angular Book",
-            "url": "https://leanpub.com/angular2-book"
+          "a6b" : {
+            "desc" : "一个关于新的 Web 开发平台 Angular 的实用入门",
+            "rev" : true,
+            "title" : "Angular Book",
+            "url" : "https://leanpub.com/angular2-book"
           },
-          "a7b": {
-            "desc": "This ebook will help you getting the philosophy of the framework: what comes from 1.x, what has been introduced and why",
-            "rev": true,
-            "title": "Becoming a Ninja with Angular",
-            "url": "https://books.ninja-squad.com/angular"
+          "a7b" : {
+            "desc" : "这本电子书将帮助你了解框架的理念：1.x 中的哪些内容，哪些内容是新引入的，以及为什么。",
+            "rev" : true,
+            "title" : "Becoming a Ninja with Angular",
+            "url" : "https://books.ninja-squad.com/angular"
           },
-          "ab": {
-            "desc": "More than 10 books from Packt Publishing about Angular",
-            "rev": true,
-            "title": "Packt Publishing",
-            "url": "https://www.packtpub.com/all/?search=angular%202#"
+          "ab" : {
+            "desc" : "Packt Publishing 关于 Angular 的 10 多本书",
+            "rev" : true,
+            "title" : "Packt Publishing",
+            "url" : "https://www.packtpub.com/all/?search=angular%202#"
           },
-          "cnoring-rxjs-fundamentals": {
-            "desc": "A free book that covers all facets of working with Rxjs from your first Observable to how to make your code run at optimal speed with Schedulers.",
-            "rev": true,
-            "title": "RxJS 5 Ultimate",
-            "url": "https://www.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details"
+          "cnoring-rxjs-fundamentals" : {
+            "desc" : "一本免费书籍，涵盖了从第一个可观察者到如何使用调度器使代码以最佳速度运行的 Rxjs 工作的所有方面。",
+            "rev" : true,
+            "title" : "RxJS 5 Ultimate",
+            "url" : "https://www.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details"
           },
-          "vsavkin-angular-router": {
-            "desc": "This book is a comprehensive guide to the Angular router written by its designer. The book explores the library in depth, including the mental model, design constraints, subtleties of the API.",
-            "rev": true,
-            "title": "Angular Router",
-            "url": "https://leanpub.com/router"
+          "vsavkin-angular-router" : {
+            "desc" : "本书是 Angular 路由器的全面指南，由其设计者撰写。本书深入探讨了该库，包括心理模型、设计约束、API 的细微之处。",
+            "rev" : true,
+            "title" : "Angular Router",
+            "url" : "https://leanpub.com/router"
           },
-          "vsavkin-essential-angular": {
-            "desc": "The book is a short, but at the same time, fairly complete overview of the key aspects of Angular written by its core contributors Victor Savkin and Jeff Cross. The book will give you a strong foundation. It will help you put all the concepts into right places. So you will get a good understanding of why the framework is the way it is.",
-            "rev": true,
-            "title": "Essential Angular",
-            "url": "https://gumroad.com/l/essential_angular"
+          "vsavkin-essential-angular" : {
+            "desc" : "本书是 Angular 核心贡献者 Victor Savkin 和 Jeff Cross 撰写的关于 Angular 关键方面的简短但完整的概述。本书将为你打下坚实的基础。它将帮助你将所有概念放到正确的位置。因此，你将对框架为何如此设计有一个很好的理解。",
+            "rev" : true,
+            "title" : "Essential Angular",
+            "url" : "https://gumroad.com/l/essential_angular"
           },
-          "angular-buch": {
-            "desc": "The first German book about Angular. It gives you a detailed practical overview of the key concepts of the platform. In each chapter a sample application is built upon with a new Angular topic. All sources are available on GitHub.",
-            "logo": "https://angular-buch.com/assets/img/brand.svg",
-            "rev": true,
-            "title": "Angular-Buch (German)",
-            "url": "https://angular-buch.com/"
+          "angular-buch" : {
+            "desc" : "第一本关于 Angular 的德语书籍。它提供了平台关键概念的详细实用概述。在每一章中，都会使用新的 Angular 主题构建一个示例应用。所有源代码都可以在 GitHub 上找到。",
+            "logo" : "https://angular-buch.com/assets/img/brand.svg",
+            "rev" : true,
+            "title" : "Angular-Buch (German)",
+            "url" : "https://angular-buch.com/"
           }
         }
       },
-      "Online Training": {
-        "order": 3,
-        "resources": {
-          "-KLIBoTWXMiBcvG0dAM6": {
-            "desc": "This course introduces you to the essentials of this \"superheroic\" framework, including declarative templates, two-way data binding, and dependency injection.",
-            "rev": true,
-            "title": "Angular: Essential Training",
-            "url": "https://www.lynda.com/AngularJS-tutorials/Angular-2-Essential-Training/540347-2.html"
+      "在线培训" : {
+        "order" : 3,
+        "resources" : {
+          "-KLIBoTWXMiBcvG0dAM6" : {
+            "desc" : "本课程将向你介绍这个“超级英雄”框架的基础知识，包括声明式模板、双向数据绑定和依赖注入。",
+            "rev" : true,
+            "title" : "Angular: Essential Training",
+            "url" : "https://www.lynda.com/AngularJS-tutorials/Angular-2-Essential-Training/540347-2.html"
           },
-          "-KLIzGq3CiFeoZUemVyE": {
-            "desc": "Learn the core concepts, play with the code, become a competent Angular developer",
-            "rev": true,
-            "title": "Angular Concepts, Code and Collective Wisdom",
-            "url": "https://www.udemy.com/angular-2-concepts-code-and-collective-wisdom/"
+          "-KLIzGq3CiFeoZUemVyE" : {
+            "desc" : "学习核心概念，玩转代码，成为一名合格的 Angular 开发者",
+            "rev" : true,
+            "title" : "Angular Concepts, Code and Collective Wisdom",
+            "url" : "https://www.udemy.com/angular-2-concepts-code-and-collective-wisdom/"
           },
-          "-KLIzHwg-glQLXni1hvL": {
-            "desc": "Spanish language Angular articles and information",
-            "rev": true,
-            "title": "Academia Binaria (español)",
-            "url": "http://academia-binaria.com/"
+          "-KLIzHwg-glQLXni1hvL" : {
+            "desc" : "西班牙语 Angular 文章和信息",
+            "rev" : true,
+            "title" : "Academia Binaria (español)",
+            "url" : "http://academia-binaria.com/"
           },
-          "-KLIzIOgdPXzI4LMOzYP": {
-            "desc": "In this course, you will learn the features listed above and so much more. This amazing Angular tutorial will cover the fundamentals of Angular (you don’t even need to know Angular), TypeScript, and introduction to the programming concepts such as conditions, arrays, functions, directives, pipes, etc.",
-            "rev": true,
-            "title": "Eduonix Angular Fundamentals",
-            "url": "https://www.eduonix.com/courses/Web-Development/angular-2-fundamentals-for-web-developers"
+          "-KLIzIOgdPXzI4LMOzYP" : {
+            "desc" : "在本课程中，你将学习上面列出的特性以及更多内容。这个很棒的 Angular 教程将涵盖 Angular 的基础知识（你甚至不需要了解 Angular），TypeScript，以及对编程概念的介绍，例如条件、数组、函数、指令、管道等。",
+            "rev" : true,
+            "title" : "Eduonix Angular 基础",
+            "url" : "https://www.eduonix.com/courses/Web-Development/angular-2-fundamentals-for-web-developers"
           },
-          "-KMUuOWwciL_S_o0fzFO": {
-            "desc": "The ngMigrate project is brought to you by Todd Motto, a Developer Advocate at Telerik, spreading the good word of Kendo UI, NativeScript and Angular & AngularJS. You can follow him on Twitter for questions, or even requests about this guide.",
-            "rev": true,
-            "title": "ngMigrate",
-            "url": "http://ngmigrate.telerik.com/"
+          "-KMUuOWwciL_S_o0fzFO" : {
+            "desc" : "ngMigrate 项目由 Telerik 的开发者倡导者 Todd Motto 提供，他推广 Kendo UI、NativeScript 以及 Angular 和 AngularJS。你可以关注他的 Twitter 账号，提出问题，甚至请求关于本指南的内容。",
+            "rev" : true,
+            "title" : "ngMigrate",
+            "url" : "http://ngmigrate.telerik.com/"
           },
-          "-KN3uNQvxifu26D6WKJW": {
-            "category": "Education",
-            "desc": "Create the future of web applications by taking Angular for a test drive.",
-            "rev": true,
-            "subcategory": "Online Training",
-            "title": "CodeSchool: Accelerating Through Angular",
-            "url": "https://www.codeschool.com/courses/accelerating-through-angular-2"
+          "-KN3uNQvxifu26D6WKJW" : {
+            "category" : "Education",
+            "desc" : "通过试用 Angular 来创建 Web 应用的未来。",
+            "rev" : true,
+            "subcategory" : "Online Training",
+            "title" : "CodeSchool：加速学习 Angular",
+            "url" : "https://www.codeschool.com/courses/accelerating-through-angular-2"
           },
-          "angular-playbook": {
-            "desc": "Learn advanced Angular best practices for enterprise teams, created by Nrwl.io.",
-            "logo": "https://nrwl.io/assets/logo_footer_2x.png",
-            "rev": true,
-            "title": "Angular Enterprise Playbook",
-            "url": "https://angularplaybook.com"
+          "angular-playbook" : {
+            "desc" : "学习由 Nrwl.io 创建的适用于企业团队的 Angular 高级最佳实践。",
+            "logo" : "https://nrwl.io/assets/logo_footer_2x.png",
+            "rev" : true,
+            "title" : "Angular 企业实战手册",
+            "url" : "https://angularplaybook.com"
           },
-          "a2b": {
-            "desc": "Hundreds of Angular courses for all skill levels",
-            "logo": "",
-            "rev": true,
-            "title": "Pluralsight",
-            "url": "https://www.pluralsight.com/search?q=angular+2&categories=all"
+          "a2b" : {
+            "desc" : "数百个适用于所有技能水平的 Angular 课程",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Pluralsight",
+            "url" : "https://www.pluralsight.com/search?q=angular+2&categories=all"
           },
-          "ab": {
-            "desc": "Take this introduction to Angular course, to learn the fundamentals in just two days, free of charge.",
-            "logo": "",
-            "rev": true,
-            "title": "Rangle.io",
-            "url": "https://rangle.io/services/javascript-training/training-angular1-angular2-with-ngupgrade/"
+          "ab" : {
+            "desc" : "参加这个 Angular 入门课程，在两天内免费学习基础知识。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Rangle.io",
+            "url" : "https://rangle.io/services/javascript-training/training-angular1-angular2-with-ngupgrade/"
           },
-          "ab3": {
-            "desc": "Angular courses hosted by  Udemy",
-            "logo": "",
-            "rev": true,
-            "title": "Udemy",
-            "url": "https://www.udemy.com/courses/search/?ref=home&src=ukw&q=angular+2&lang=en"
+          "ab3" : {
+            "desc" : "由 Udemy 主办的 Angular 课程",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Udemy",
+            "url" : "https://www.udemy.com/courses/search/?ref=home&src=ukw&q=angular+2&lang=en"
           },
-          "ab4": {
-            "desc": "Angular Fundamentals and advanced topics focused on Redux Style Angular Applications",
-            "logo": "",
-            "rev": true,
-            "title": "Egghead.io",
-            "url": "https://egghead.io/technologies/angular2"
+          "ab4" : {
+            "desc" : "Angular 基础知识和高级主题，重点关注 Redux 风格的 Angular 应用",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Egghead.io",
+            "url" : "https://egghead.io/technologies/angular2"
           },
-          "ab5": {
-            "desc": "Build Web Apps with Angular - recorded video content",
-            "logo": "",
-            "rev": true,
-            "title": "Frontend Masters",
-            "url": "https://frontendmasters.com/courses/angular-2/"
+          "ab5" : {
+            "desc" : "使用 Angular 构建 Web 应用——录制视频内容",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Frontend Masters",
+            "url" : "https://frontendmasters.com/courses/angular-2/"
           },
-          "ac6": {
-            "desc": "French language Angular course covering TypeScript, ES6, Dependency Injection, Observables, and more.",
-            "rev": true,
-            "title": "Wishtack's Angular Course (francais)",
-            "url": "http://courses.wishtack.com/angular-2/ecmascript-6"
+          "ac6" : {
+            "desc" : "涵盖 TypeScript、ES6、依赖注入、可观察者等的用法，法语 Angular 课程。",
+            "rev" : true,
+            "title" : "Wishtack 的 Angular 课程（法语）",
+            "url" : "http://courses.wishtack.com/angular-2/ecmascript-6"
           },
-          "angular-love": {
-            "desc": "Polish language Angular articles and information",
-            "rev": true,
-            "title": "angular.love (Polski)",
-            "url": "http://www.angular.love/"
+          "angular-love" : {
+            "desc" : "波兰语 Angular 文章和信息",
+            "rev" : true,
+            "title" : "angular.love（波兰语）",
+            "url" : "http://www.angular.love/"
           },
-          "angular2forms": {
-            "desc": "Learn about how to use Reactive Forms with Angular.",
-            "rev": true,
-            "title": "Angular Forms: Data Binding and Validation",
-            "url": "https://www.lynda.com/AngularJS-tutorials/Angular-2-Forms-Data-Binding-Validation/461451-2.html"
+          "angular2forms" : {
+            "desc" : "学习如何在 Angular 中使用响应式表单。",
+            "rev" : true,
+            "title" : "Angular 表单：数据绑定和验证",
+            "url" : "https://www.lynda.com/AngularJS-tutorials/Angular-2-Forms-Data-Binding-Validation/461451-2.html"
           },
-          "learn-angular-fr": {
-            "desc": "French language Angular content.",
-            "rev": true,
-            "title": "Learn Angular (francais)",
-            "url": "http://www.learn-angular.fr/"
+          "learn-angular-fr" : {
+            "desc" : "法语 Angular 内容。",
+            "rev" : true,
+            "title" : "学习 Angular（法语）",
+            "url" : "http://www.learn-angular.fr/"
           },
-          "toddmotto-ultimateangular": {
-            "desc": "Online courses providing in-depth coverage of the Angular ecosystem, AngularJS, Angular and TypeScript, with functional code samples and a full-featured seed environment. Get a deep understanding of Angular and TypeScript from foundation to functional application, then move on to advanced topics with Todd Motto and collaborators.",
-            "rev": true,
-            "title": "Ultimate Angular",
-            "url": "https://ultimateangular.com/"
+          "toddmotto-ultimateangular" : {
+            "desc" : "在线课程，深入介绍 Angular 生态系统、AngularJS、Angular 和 TypeScript，包含功能代码示例和功能齐全的种子环境。从基础到功能应用，深入了解 Angular 和 TypeScript，然后与 Todd Motto 和合作者一起学习高级主题。",
+            "rev" : true,
+            "title" : "终极 Angular",
+            "url" : "https://ultimateangular.com/"
           },
-          "angular-firebase": {
-            "desc": "Video lessons covering progressive web apps with Angular, Firebase, RxJS, and related APIs.",
-            "rev": true,
-            "title": "AngularFirebase.com",
-            "url": "https://angularfirebase.com/"
+          "angular-firebase" : {
+            "desc" : "视频课程，涵盖使用 Angular、Firebase、RxJS 和相关 API 的渐进式 Web 应用。",
+            "rev" : true,
+            "title" : "AngularFirebase.com",
+            "url" : "https://angularfirebase.com/"
           }
         }
       },
-      "Workshops & Onsite Training": {
-        "order": 2,
-        "resources": {
-          "-KLIBo3ANF3-1B9wxsoB": {
-            "desc": "Angular Classes from Intertech in Minnesota",
-            "rev": true,
-            "title": "Intertech",
-            "url": "http://www.intertech.com/Training/Web-Dev/AngularJS/AngularJS/Angular-2-Training"
+      "研讨会和现场培训" : {
+        "order" : 2,
+        "resources" : {
+          "-KLIBo3ANF3-1B9wxsoB" : {
+            "desc" : "来自明尼苏达州 Intertech 的 Angular 课程",
+            "rev" : true,
+            "title" : "Intertech",
+            "url" : "http://www.intertech.com/Training/Web-Dev/AngularJS/AngularJS/Angular-2-Training"
           },
-          "-KLIBoFWStce29UCwkvY": {
-            "desc": "Private Angular Training and Mentoring",
-            "rev": true,
-            "title": "Chariot Solutions",
-            "url": "http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/"
+          "-KLIBoFWStce29UCwkvY" : {
+            "desc" : "私人 Angular 培训和指导",
+            "rev" : true,
+            "title" : "Chariot Solutions",
+            "url" : "http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/"
           },
-          "-KLIBoN0p9be3kwC6-ga": {
-            "desc": "Angular Academy is a two day hands-on public course given in-person across Canada!",
-            "rev": true,
-            "title": "Angular Academy (Canada)",
-            "url": "http://www.angularacademy.ca"
+          "-KLIBoN0p9be3kwC6-ga" : {
+            "desc" : "Angular Academy 是一个为期两天的动手实践公开课程，在加拿大各地举行！",
+            "rev" : true,
+            "title" : "Angular Academy（加拿大）",
+            "url" : "http://www.angularacademy.ca"
           },
-          "-KLIBo_lm-WrK1Sjtt-2": {
-            "desc": "Basic and Advanced training across Europe in German",
-            "rev": true,
-            "title": "TheCodeCampus (German)",
-            "url": "https://www.thecodecampus.de/#!/angularjs"
+          "-KLIBo_lm-WrK1Sjtt-2" : {
+            "desc" : "在欧洲各地提供德语基础和高级培训",
+            "rev" : true,
+            "title" : "TheCodeCampus（德语）",
+            "url" : "https://www.thecodecampus.de/#!/angularjs"
           },
-          "-KLIzFhfGKi1xttqJ7Uh": {
-            "desc": "4 day in-depth Angular training in Israel",
-            "rev": true,
-            "title": "ng-course (Israel)",
-            "url": "http://ng-course.org/"
+          "-KLIzFhfGKi1xttqJ7Uh" : {
+            "desc" : "在以色列进行为期四天的深入 Angular 培训",
+            "rev" : true,
+            "title" : "ng-course（以色列）",
+            "url" : "http://ng-course.org/"
           },
-          "-KLIzIcRoDq3TzCJWnYc": {
-            "desc": "Virtual and in-person training in Canada and the US",
-            "rev": true,
-            "title": "Web Age Solutions",
-            "url": "http://www.webagesolutions.com/courses/WA2533-angular-2-programming"
+          "-KLIzIcRoDq3TzCJWnYc" : {
+            "desc" : "在加拿大和美国提供虚拟和现场培训",
+            "rev" : true,
+            "title" : "Web Age Solutions",
+            "url" : "http://www.webagesolutions.com/courses/WA2533-angular-2-programming"
           },
-          "500tech": {
-            "desc": "Learn from 500Tech, an Angular consultancy in Israel.  This course was built by an expert developer, who lives and breathes Angular, and has practical experience  with real world large scale Angular apps.",
-            "rev": true,
-            "title": "Angular Hands-on Course (Israel)",
-            "url": "http://angular2.courses.500tech.com/"
+          "500tech" : {
+            "desc" : "向 500Tech 学习，500Tech 是以色列的一家 Angular 咨询公司。本课程由一位经验丰富的开发者创建，他精通 Angular，并拥有实际的大型 Angular 应用开发经验。",
+            "rev" : true,
+            "title" : "Angular 动手实践课程（以色列）",
+            "url" : "http://angular2.courses.500tech.com/"
           },
-          "9ab": {
-            "desc": "OnSite Training From the Authors of  \"Become A Ninja with Angular\"",
-            "rev": true,
-            "title": "Ninja Squad",
-            "url": "http://ninja-squad.com/formations/formation-angular2"
+          "9ab" : {
+            "desc" : "来自“成为 Angular 大师”作者的现场培训",
+            "rev" : true,
+            "title" : "Ninja Squad",
+            "url" : "http://ninja-squad.com/formations/formation-angular2"
           },
-          "a2b": {
-            "desc": "Angular Boot Camp covers introductory and intermediate content. It includes extensive workshop session, with hands-on help from our experienced developer-trainers. At the end of this class, student are usually able to use AngularJS to make an end-to-end, working application.",
-            "logo": "",
-            "rev": true,
-            "title": "Angular Boot Camp",
-            "url": "https://angularbootcamp.com"
+          "a2b" : {
+            "desc" : "Angular Boot Camp 涵盖入门和中级内容。它包括大量的研讨会环节，并提供来自经验丰富的开发者培训师的动手帮助。在本课程结束时，学生通常能够使用 AngularJS 创建一个端到端的应用程序。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Angular Boot Camp",
+            "url" : "https://angularbootcamp.com"
           },
-          "ab": {
-            "desc": "With Rangle’s Custom Training, you can cover Angular in comprehensive detail, on your premises or theirs. Learn directly from Angular experts who will tailor course material to suit your specific application needs.",
-            "logo": "",
-            "rev": true,
-            "title": "Rangle.io",
-            "url": "http://rangle.io/services/javascript-training/angular2-training/"
+          "ab" : {
+            "desc" : "通过 Rangle 的定制培训，你可以在你的场所或他们的场所全面深入地学习 Angular。直接向 Angular 专家学习，他们将根据你的特定应用需求定制课程内容。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Rangle.io",
+            "url" : "http://rangle.io/services/javascript-training/angular2-training/"
           },
-          "ab3": {
-            "desc": "Trainings & Code Reviews. We help people to get a deep understanding of different technologies through trainings and code reviews. Our services can be arranged online, making it possible to join in from anywhere in the world, or on-site to get the best experience possible.",
-            "logo": "",
-            "rev": true,
-            "title": "Thoughtram",
-            "url": "http://thoughtram.io/"
+          "ab3" : {
+            "desc" : "培训和代码审查。我们通过培训和代码审查帮助人们深入了解不同的技术。我们的服务可以在线安排，使你能够从世界任何地方加入，或者在现场获得最佳体验。",
+            "logo" : "",
+            "rev" : true,
+            "title" : "Thoughtram",
+            "url" : "http://thoughtram.io/"
           },
-          "jsru": {
-            "desc": "Complete Angular online course. Constantly updating. Real-time webinars with immediate feedback from the teacher.",
-            "logo": "https://learn.javascript.ru/img/sitetoolbar__logo_ru.svg",
-            "rev": true,
-            "title": "Learn Javascript (Russian)",
-            "url": "https://learn.javascript.ru/courses/angular"
+          "jsru" : {
+            "desc" : "完整的 Angular 在线课程。持续更新。实时网络研讨会，并提供来自老师的即时反馈。",
+            "logo" : "https://learn.javascript.ru/img/sitetoolbar__logo_ru.svg",
+            "rev" : true,
+            "title" : "学习 JavaScript（俄语）",
+            "url" : "https://learn.javascript.ru/courses/angular"
           },
-          "sa200": {
-            "desc": "Free Angular training delivered by SFEIR in France",
-            "rev": true,
-            "title": "SFEIR School (French)",
-            "url": "https://school.sfeir.com/project/sa200/"
+          "sa200" : {
+            "desc" : "SFEIR 在法国提供的免费 Angular 培训",
+            "rev" : true,
+            "title" : "SFEIR 学校（法语）",
+            "url" : "https://school.sfeir.com/project/sa200/"
           },
-          "formationjs": {
-            "desc": "Angular onsite training in Paris (France). Monthly Angular workshops and custom onsite classes. We are focused on Angular, so we are always up to date.",
-            "rev": true,
-            "title": "Formation JavaScript (French)",
-            "url": "https://formationjavascript.com/formation-angular/"
+          "formationjs" : {
+            "desc" : "在巴黎（法国）提供的 Angular 现场培训。每月举办 Angular 研讨会和定制的现场课程。我们专注于 Angular，因此始终保持最新状态。",
+            "rev" : true,
+            "title" : "JavaScript 培训（法语）",
+            "url" : "https://formationjavascript.com/formation-angular/"
           },
-          "wao": {
-            "desc": "Onsite Angular Training delivered by We Are One Sàrl in Switzerland",
-            "logo": "https://weareone.ch/wordpress/wao-content/uploads/2014/12/logo_200_2x.png",
-            "rev": true,
-            "title": "We Are One Sàrl",
-            "url": "https://weareone.ch/courses/angular/"
+          "wao" : {
+            "desc" : "We Are One Sàrl 在瑞士提供的 Angular 现场培训",
+            "logo" : "https://weareone.ch/wordpress/wao-content/uploads/2014/12/logo_200_2x.png",
+            "rev" : true,
+            "title" : "We Are One Sàrl",
+            "url" : "https://weareone.ch/courses/angular/"
           },
-          "angular-schule": {
-            "desc": "Angular onsite training and public workshops in Germany from the authors of the German Angular book. We also regularly post articles and videos on our blog (in English and German language).",
-            "logo": "https://angular.schule/assets/img/brand.svg",
-            "rev": true,
-            "title": "Angular.Schule (German)",
-            "url": "https://angular.schule/"
+          "angular-schule" : {
+            "desc" : "来自德国 Angular 书籍作者提供的 Angular 现场培训和公开研讨会。我们还在博客上定期发布文章和视频（英语和德语）。",
+            "logo" : "https://angular.schule/assets/img/brand.svg",
+            "rev" : true,
+            "title" : "Angular.Schule（德语）",
+            "url" : "https://angular.schule/"
           }
         }
       }
